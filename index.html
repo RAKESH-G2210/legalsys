@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Legal Scenario Analyzer | Indian Law Assistant</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="app-container">
+        <header>
+            <div class="logo">
+                <span class="icon">⚖️</span>
+                <h1>Legal<span>Sense</span> AI</h1>
+            </div>
+            <p class="subtitle">Intelligent Indian Law Scenario Analyzer</p>
+        </header>
+
+        <main class="chat-wrapper">
+            <div id="chat-container" class="chat-container">
+                <div class="message ai-message">
+                    <div class="message-content">
+                        <p>Welcome! I am your AI Legal Assistant. Describe any legal situation or incident in plain
+                            English, and I will identify the relevant sections of Indian Law (IPC, IT Act, etc.) for
+                            you.</p>
+                        <div class="disclaimer">
+                            <strong>Note:</strong> This tool is for educational purposes and does not constitute
+                            professional legal advice.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-area">
+                <div class="input-container">
+                    <textarea id="user-input" placeholder="e.g., Someone stole my laptop from my office..."
+                        rows="1"></textarea>
+                    <button id="send-btn" title="Analyze Scenario">
+                        <svg viewBox="0 0 24 24" width="24" height="24">
+                            <path fill="currentColor" d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"></path>
+                        </svg>
+                    </button>
+                </div>
+                <div class="helper-text">Powered by Sentence-BERT (all-MiniLM-L6-v2)</div>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2026 AI Legal Scenario Analyzer | Mapped to IPC, IT Act, and CrPC</p>
+        </footer>
+    </div>
+
+    <!-- Modal for Result Details -->
+    <div id="result-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
