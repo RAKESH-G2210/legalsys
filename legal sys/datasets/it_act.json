@@ -1,0 +1,1164 @@
+[
+  {
+    "crime": "Cyber hacking",
+    "act": "Information Technology Act",
+    "section": "Section 66 IT Act",
+    "keywords": [
+      "hack",
+      "hacked account",
+      "cyber attack",
+      "unauthorized access"
+    ],
+    "description": "Unauthorized access to computer resources causing damage or data theft.",
+    "punishment": "Up to 3 years imprisonment or fine up to \u20b95 lakh",
+    "bailable": "Yes",
+    "cognizable": "Yes"
+  },
+  {
+    "crime": "Identity theft",
+    "act": "Information Technology Act",
+    "section": "Section 66C IT Act",
+    "keywords": [
+      "identity theft",
+      "password misuse"
+    ],
+    "description": "Fraudulent use of electronic signature, password or digital identity.",
+    "punishment": "Up to 3 years imprisonment and fine",
+    "bailable": "Yes",
+    "cognizable": "Yes"
+  },
+  {
+    "crime": "Online cheating",
+    "act": "Information Technology Act",
+    "section": "Section 66D IT Act",
+    "keywords": [
+      "phishing",
+      "online fraud",
+      "fake website scam"
+    ],
+    "description": "Cheating by personation using computer resources.",
+    "punishment": "Up to 3 years imprisonment and fine",
+    "bailable": "Yes",
+    "cognizable": "Yes"
+  },
+  {
+    "crime": "IT Act Section 1 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 1 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 1 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 2 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 2 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 2 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 3 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 3 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 3 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 4 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 4 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 4 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 5 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 5 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 5 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 6 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 6 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 6 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 7 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 7 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 7 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 8 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 8 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 8 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 9 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 9 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 9 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 10 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 10 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 10 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 11 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 11 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 11 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 12 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 12 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 12 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 13 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 13 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 13 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 14 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 14 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 14 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 15 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 15 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 15 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 16 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 16 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 16 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 17 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 17 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 17 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 18 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 18 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 18 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 19 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 19 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 19 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 20 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 20 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 20 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 21 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 21 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 21 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 22 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 22 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 22 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 23 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 23 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 23 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 24 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 24 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 24 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 25 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 25 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 25 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 26 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 26 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 26 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 27 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 27 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 27 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 28 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 28 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 28 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 29 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 29 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 29 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 30 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 30 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 30 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 31 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 31 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 31 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 32 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 32 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 32 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 33 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 33 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 33 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 34 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 34 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 34 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 35 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 35 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 35 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 36 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 36 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 36 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 37 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 37 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 37 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 38 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 38 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 38 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 39 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 39 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 39 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 40 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 40 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 40 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 41 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 41 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 41 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 42 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 42 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 42 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 43 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 43 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 43 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 44 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 44 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 44 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 45 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 45 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 45 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 46 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 46 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 46 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 47 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 47 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 47 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 48 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 48 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 48 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 49 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 49 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 49 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 50 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 50 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 50 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 51 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 51 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 51 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 52 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 52 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 52 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 53 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 53 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 53 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 54 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 54 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 54 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 55 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 55 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 55 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 56 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 56 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 56 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 57 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 57 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 57 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 58 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 58 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 58 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 59 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 59 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 59 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 60 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 60 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 60 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 61 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 61 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 61 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 62 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 62 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 62 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 63 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 63 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 63 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 64 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 64 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 64 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 65 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 65 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 65 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 66 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 66 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 66 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 67 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 67 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 67 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 68 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 68 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 68 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 69 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 69 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 69 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 70 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 70 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 70 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 71 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 71 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 71 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 72 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 72 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 72 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 73 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 73 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 73 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 74 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 74 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 74 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 75 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 75 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 75 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 76 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 76 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 76 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 77 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 77 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 77 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 78 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 78 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 78 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 79 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 79 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 79 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  },
+  {
+    "crime": "IT Act Section 80 Provision",
+    "act": "Information Technology Act",
+    "section": "Section 80 IT Act",
+    "keywords": [
+      "cyber law",
+      "internet crime",
+      "digital law"
+    ],
+    "description": "Legal provision defined under Section 80 of the Information Technology Act governing electronic transactions or cyber offences.",
+    "punishment": "Refer to official statute",
+    "bailable": "Varies",
+    "cognizable": "Varies"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "crime": "Public servant taking bribe",
+    "act": "Prevention of Corruption Act",
+    "section": "Section 7",
+    "keywords": [
+      "bribe",
+      "police asking money",
+      "illegal payment",
+      "corruption",
+      "collecting physical money",
+      "asked for cash",
+      "money instead of fine"
+    ],
+    "description": "Public servant obtaining undue advantage or illegal gratification in exchange for official action.",
+    "punishment": "3\u20137 years imprisonment and fine",
+    "bailable": "Non-bailable",
+    "cognizable": "Yes"
+  }
+]

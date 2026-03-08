@@ -1,0 +1,2 @@
+MATCH: property - Mischief causing property damage (Score: 0.6845)
+MATCH: traffic - Driving without helmet (Score: 0.5668)
