@@ -9,11 +9,25 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 load_dotenv()
 
-app = Flask(__name__)
+app = Flask(**name**)
 CORS(app)
 
 # --------------------------------------------------
+
+# ROOT ROUTE (RENDER HEALTH CHECK)
+
+# --------------------------------------------------
+
+@app.route("/")
+def home():
+return jsonify({
+"message": "Legal AI Backend Running"
+})
+
+# --------------------------------------------------
+
 # LOAD DATASETS
+
 # --------------------------------------------------
 
 DATASET_FOLDER = "datasets"
@@ -22,21 +36,24 @@ laws = []
 
 for file in os.listdir(DATASET_FOLDER):
 
-    if file.endswith(".json"):
+```
+if file.endswith(".json"):
 
-        path = os.path.join(DATASET_FOLDER, file)
+    path = os.path.join(DATASET_FOLDER, file)
 
-        with open(path, "r", encoding="utf-8") as f:
+    with open(path, "r", encoding="utf-8") as f:
 
-            data = json.load(f)
+        data = json.load(f)
 
-            laws.extend(data)
+        laws.extend(data)
+```
 
 print("Total laws loaded:", len(laws))
 
-
 # --------------------------------------------------
+
 # NLP INTENT TRAINING DATA
+
 # --------------------------------------------------
 
 intent_examples = {
@@ -95,9 +112,10 @@ intent_examples = {
 
 }
 
-
 # --------------------------------------------------
+
 # NLP MODEL
+
 # --------------------------------------------------
 
 vectorizer = TfidfVectorizer()
@@ -107,28 +125,32 @@ intent_labels = []
 
 for intent, examples in intent_examples.items():
 
-    for example in examples:
+```
+for example in examples:
 
-        all_examples.append(example)
+    all_examples.append(example)
 
-        intent_labels.append(intent)
+    intent_labels.append(intent)
+```
 
 X = vectorizer.fit_transform(all_examples)
 
-
 def detect_intent(text):
 
-    query = vectorizer.transform([text])
+```
+query = vectorizer.transform([text])
 
-    similarity = cosine_similarity(query, X)
+similarity = cosine_similarity(query, X)
 
-    idx = similarity.argmax()
+idx = similarity.argmax()
 
-    return intent_labels[idx]
-
+return intent_labels[idx]
+```
 
 # --------------------------------------------------
+
 # INTENT → LAW MAP
+
 # --------------------------------------------------
 
 intent_map = {
@@ -149,64 +171,71 @@ intent_map = {
 
 }
 
-
 # --------------------------------------------------
+
 # LAW RETRIEVAL
+
 # --------------------------------------------------
 
 def retrieve_laws(intent):
 
-    matches = []
+```
+matches = []
 
-    sections = intent_map.get(intent, [])
+sections = intent_map.get(intent, [])
 
-    for law in laws:
+for law in laws:
 
-        section = law.get("section","").lower()
+    section = law.get("section","").lower()
 
-        act = law.get("act","").lower()
+    act = law.get("act","").lower()
 
-        for s in sections:
+    for s in sections:
 
-            if s in section or s in act:
+        if s in section or s in act:
 
-                matches.append({
-                    "legal_info": law,
-                    "score": 1.0
-                })
+            matches.append({
+                "legal_info": law,
+                "score": 1.0
+            })
 
-    return matches[:2]
-
+return matches[:2]
+```
 
 # --------------------------------------------------
+
 # MAIN API
+
 # --------------------------------------------------
 
 @app.route("/analyze", methods=["POST"])
 def analyze():
 
-    data = request.json
+```
+data = request.json
 
-    scenario = data.get("scenario","")
+scenario = data.get("scenario","")
 
-    if not scenario:
+if not scenario:
 
-        return jsonify({"error":"No scenario provided"}),400
+    return jsonify({"error":"No scenario provided"}),400
 
-    intent = detect_intent(scenario)
+intent = detect_intent(scenario)
 
-    results = retrieve_laws(intent)
+results = retrieve_laws(intent)
 
-    if not results:
+if not results:
 
-        return jsonify({
-            "conversational_response":"I couldn't find exact laws for this scenario.",
-            "results":[]
-        })
+    return jsonify({
+        "conversational_response":"I couldn't find exact laws for this scenario.",
+        "results":[]
+    })
 
-    law = results[0]["legal_info"]
+law = results[0]["legal_info"]
 
-    explanation = f"""
+explanation = f"""
+```
+
 ### Legal Analysis
 
 Based on your scenario, this appears to relate to **{intent.replace("_"," ")}**.
@@ -222,31 +251,35 @@ Relevant Law:
 You may consider contacting local authorities or filing a complaint depending on the severity of the situation.
 """
 
-    return jsonify({
-        "conversational_response": explanation,
-        "results": results
-    })
-
+```
+return jsonify({
+    "conversational_response": explanation,
+    "results": results
+})
+```
 
 # --------------------------------------------------
+
 # HEALTH CHECK
+
 # --------------------------------------------------
 
 @app.route("/health")
 def health():
 
-    return jsonify({
-        "status":"running",
-        "laws_loaded": len(laws)
-    })
-
+```
+return jsonify({
+    "status":"running",
+    "laws_loaded": len(laws)
+})
+```
 
 # --------------------------------------------------
 
-if __name__ == "__main__":
+if **name** == "**main**":
 
-    import os
+```
+port = int(os.environ.get("PORT", 5000))
 
-    port = int(os.environ.get("PORT", 5000))
-
-    app.run(host="0.0.0.0", port=port)
+app.run(host="0.0.0.0", port=port)
+```
